@@ -303,3 +303,37 @@ body {
   width: 20px;
   height: 15px;
 }
+
+.star-rating i {
+  font-size: 1.5rem;
+  margin-right: 5px;
+}
+
+.round {
+  border-radius: 10px;
+}
+
+.logoArea img {
+  width: 60%;
+  text-align: center;
+}
+
+.logoArea {
+  text-align: center;
+}
+
+.button-link {
+  background-color: rgb(182, 10, 10);
+  color: white;
+}
+.button-link-a a {
+  color: white;
+  padding: 0px 15px;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.text-bold p {
+  font-size: 18px;
+  font-weight: 600;
+}

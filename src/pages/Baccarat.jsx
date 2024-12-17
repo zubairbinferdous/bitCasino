@@ -4,6 +4,7 @@ import Baccaratt from '../assets/bac.webp';
 import bgg from '../assets/bacBg.webp';
 import mentioned from '../assets/bacret.webp';
 // import bggo from '../assets/wleOne.webp';
+import casinoLogo from '../assets/casino-logo.png';
 import Footer from './Footer';
 import Header from './Header';
 
@@ -16,7 +17,37 @@ const Baccarat = () => {
                 <h5 className='text-white'>DECEMBER 2024</h5>
                 <h3 className="text-white mb-5">
                 How to Play Blackjack - Cheat Sheet, Rules & Strategy for Winning</h3>  
-                <br />                  
+                <br /> 
+                    <div className="row align-items-center bg-white round">
+                
+                  <div className="col-md-3 logoArea">
+                    <img src={casinoLogo} alt="Example Image" className="img-fluid" />
+                  </div>
+                
+                
+                  <div className="col-md-3">
+                    <h5>BC.Game Casino</h5>
+                    <div className="star-rating">
+                      <i className="bi bi-star-fill text-warning"></i>
+                      <i className="bi bi-star-fill text-warning"></i>
+                      <i className="bi bi-star-fill text-warning"></i>
+                      <i className="bi bi-star-fill text-warning"></i>
+                      <i className="bi bi-star-fill text-warning"></i>
+                    </div>
+                    
+                  </div>
+                
+                
+                  <div className="col-md-3 text-bold">
+                    <p>300% up to €20000 /5BTC</p>
+                  </div>
+                
+                
+                  <div className="col-md-3 text-center button-link-a">
+                    <button className="btn btn-danger button-link"><a href="https://bcgame.sk/?stag=101173_6761ec6bfc91710cf3a126f1&spin=true&i=4cxse6dr&utm_source=4cxse6dr">GET BONUS</a></button>
+                  </div>
+                               </div>     
+                               <br />                 
                </div>
          </div>
 

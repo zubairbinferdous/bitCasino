@@ -4,6 +4,7 @@ import CASINOS from '../assets/icon-poker-chip.svg';
 import SLOTS from '../assets/icon-slots.svg';
 import GAMES from '../assets/money-bag.svg';
 
+
 const Header = () => {
     return (
         <div>
@@ -38,6 +39,7 @@ const Header = () => {
             <ul className="dropdown-menu" aria-labelledby="casinoGamesDropdown">
               <li><a className="dropdown-item" href="/free">Free Slots Guide</a></li>
               <li><a className="dropdown-item" href="/Blackjack">Blackjack Guide</a></li>
+              <li><a className="dropdown-item" href="/Roulette">Roulette Guide</a></li>
               <li><a className="dropdown-item" href="/Baccarat">Baccarat Guid</a></li>
             </ul>
           </li>

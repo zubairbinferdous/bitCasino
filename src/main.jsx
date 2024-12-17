@@ -21,6 +21,7 @@ import Gates from './pages/Gates.jsx'
 import GoldRN from './pages/GoldRN.jsx'
 import HighR from './pages/HighR.jsx'
 import LionR from './pages/LionR.jsx'
+import Roulette from './pages/Roulette.jsx'
 import Welcome from './pages/Welcome.jsx'
 import ZesuR from './pages/ZesuR.jsx'
 
@@ -66,6 +67,10 @@ const router = createBrowserRouter([
   {
     path:'/Blackjack',
     element:<Baccarat></Baccarat>
+  },
+  {
+    path:'/Roulette',
+    element:<Roulette></Roulette>
   },
 
 
@@ -118,7 +123,7 @@ const router = createBrowserRouter([
 
 
 
-  
+
   {
     path:'/lion',
     element:<LionR></LionR>
