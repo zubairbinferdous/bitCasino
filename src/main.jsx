@@ -9,6 +9,7 @@ import BigBassR from './pages/BigBassR.jsx'
 import Blackjack from './pages/Blackjack.jsx'
 import Casino from './pages/Casino.jsx'
 import Deposit from './pages/Deposit.jsx'
+import FreeSlot from './pages/FreeSlot.jsx'
 import FreeSpin from './pages/FreeSpin.jsx'
 import Welcome from './pages/Welcome.jsx'
 
@@ -24,6 +25,12 @@ const router = createBrowserRouter([
     path:'/casino',
     element:<Casino></Casino>
   },
+  {
+    path:'/free',
+    element:<FreeSlot></FreeSlot>
+  },
+
+
 
 
   {

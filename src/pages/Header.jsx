@@ -12,7 +12,7 @@ const Header = () => {
       <div className="collapse navbar-collapse" id="navbarNav">
         <ul className="navbar-nav me-auto">
           <li className="nav-item">
-            <a className="nav-link" href="#">FREE SLOTS</a>
+            <a className="nav-link" href="/free">FREE SLOTS</a>
           </li>
           <li className="nav-item">
             <a className="nav-link" href="/casino">CASINOS</a>

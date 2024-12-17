@@ -3,6 +3,7 @@ import cReview from '../assets/big-bass-splash-is-an-exciting-slot-that-will-ent
 import cReview1 from '../assets/bROne.webp';
 import cReview111 from '../assets/bRthree.webp';
 import cReview11 from '../assets/bRtwo.webp';
+import cReview3 from '../assets/casinoClick.jpg';
 import Footer from './Footer';
 import Header from './Header';
 
@@ -16,9 +17,25 @@ const BigBassR = () => {
                 <h3 className="text-white mb-5">
                 Big Bass Splash Slot Demo</h3>  
                
+               <div className="row">
+               <div className="col-md-8">
                 <div className="bassImg">
                 <img src={cReview} alt="" />   
-                </div>              
+                </div>         
+                    </div>    
+
+
+                    <div className="col-md-4">
+                    <h3 className="text-white mb-5 text-center">
+                    Play For Real? - Select a Bonus</h3>  
+
+                    <div className="bassImg2" >
+                        <a href="https://bcgame.sk/?stag=101173_6761a54efc91710cf39818ee&spin=true&i=4cxse6dr&utm_source=4cxse6dr"> <img src={cReview3} alt="" />  </a>
+                    
+                    </div>
+
+                   </div> 
+               </div>
                 <br />
                </div>
          </div>
@@ -48,8 +65,165 @@ In this Big Bass Splash review, you will see what makes this slot special. You w
                    
                    </div>
 
+                   <div className="container mb-4">
+                    <div className="row">
+                    <div className="col-md-4">
+                <div className="card shadow-sm" >
+                    <div className="card-body">
+                        <div className="d-flex align-items-center mb-3">
+                            <h5 className="card-title mb-0 fw-bold">Pros</h5>
+                            <div className="ms-auto">
+                                <span className="rounded-circle d-inline-flex justify-content-center align-items-center" >
+                                    <span className="text-success fw-bold" ></span>
+                                </span>
+                            </div>
+                        </div>
+                        <ul className="list-unstyled mb-0">
+                            <li className="d-flex align-items-start mb-2">
+                                <span className="text-success me-2 fw-bold">+</span>
+                                <span>Max Win of 5,000x of your stake</span>
+                            </li>
+                            <li className="d-flex align-items-start mb-2">
+                                <span className="text-success me-2 fw-bold">+</span>
+                                <span>Up to 5 modifiers in the Free Spins</span>
+                            </li>
+                            <li className="d-flex align-items-start mb-2">
+                                <span className="text-success me-2 fw-bold">+</span>
+                                <span>Improved chances of triggering Free Spins</span>
+                            </li>
+                            <li className="d-flex align-items-start mb-2">
+                                <span className="text-success me-2 fw-bold">+</span>
+                                <span>Free Spins can be retriggered with a higher Multiplier</span>
+                            </li>
+                            <li className="d-flex align-items-start">
+                                <span className="text-success me-2 fw-bold">+</span>
+                                <span>Option to buy Free Spins</span>
+                            </li>
+                        </ul>
+                    </div>
 
-                   <div className="container">
+                    <div className="card-body">
+                        <div className="d-flex align-items-center mb-3">
+                            <h5 className="card-title mb-0 fw-bold">Cons</h5>
+                            <div className="ms-auto">
+                                <span className="rounded-circle d-inline-flex justify-content-center align-items-center" >
+                                    <span className="text-success fw-bold" ></span>
+                                </span>
+                            </div>
+                        </div>
+                        <ul className="list-unstyled mb-0">
+                            <li className="d-flex align-items-start mb-2">
+                                <span className="text-success me-2 fw-bold">-</span>
+                                <span>High volatility</span>
+                            </li>
+                           
+                        </ul>
+                    </div>
+                </div>
+
+                    </div>
+
+                    <div className="col-md-4">
+                    <div className="card p-3 shadow-sm">
+            
+            <h5 className="fw-bold mb-3">Facts About the Slot</h5>
+            <div className="row">
+                <div className="col-6 mb-2">
+                    <i className="fa-solid fa-landmark text-warning me-2"></i> Provider
+                </div>
+                <div className="col-6 text-end fw-bold text-danger">Reel Kingdom</div>
+
+                <div className="col-6 mb-2">
+                    <i className="fa-solid fa-bolt text-warning me-2"></i> Volatility
+                </div>
+                <div className="col-6 text-end">
+                    <span className="text-warning">
+                        &#9889;&#9889;&#9889;&#9889;&#9889;
+                    </span>
+                </div>
+
+                <div className="col-6 mb-2">
+                    <i className="fa-solid fa-percent text-warning me-2"></i> RTP%
+                </div>
+                <div className="col-6 text-end fw-bold">95.67</div>
+
+                <div className="col-6 mb-2">
+                    <i className="fa-solid fa-gamepad text-warning me-2"></i> Game type
+                </div>
+                <div className="col-6 text-end fw-bold">Slots</div>
+
+                <div className="col-6 mb-2">
+                    <i className="fa-solid fa-gem text-warning me-2"></i> Jackpot
+                </div>
+                <div className="col-6 text-end fw-bold">No</div>
+            </div>
+            {/* <hr>  */}
+
+            
+            <h5 className="fw-bold mb-3">Bet Range & Game Layout</h5>
+            <div className="row">
+                <div className="col-6 mb-2">
+                    <i className="fa-solid fa-coins text-warning me-2"></i> Minimum bet
+                </div>
+                <div className="col-6 text-end fw-bold">0.10</div>
+
+                <div className="col-6 mb-2">
+                    <i className="fa-solid fa-sack-dollar text-warning me-2"></i> Maximum bet
+                </div>
+                <div className="col-6 text-end fw-bold">250.00</div>
+
+                <div className="col-6 mb-2">
+                    <i className="fa-solid fa-cog text-warning me-2"></i> Reels
+                </div>
+                <div className="col-6 text-end fw-bold">5</div>
+
+                <div className="col-6 mb-2">
+                    <i className="fa-solid fa-layer-group text-warning me-2"></i> Rows
+                </div>
+                <div className="col-6 text-end fw-bold">3</div>
+
+                <div className="col-6 mb-2">
+                    <i className="fa-solid fa-grip-lines text-warning me-2"></i> Paylines
+                </div>
+                <div className="col-6 text-end fw-bold">10</div>
+            </div>
+                    </div>
+                    </div>
+
+                    <div className="col-md-4">
+                    
+                <div className="features card p-3">
+                    <h4>Game Themes</h4>
+
+                    <div className="">
+                    <span className="feature-tag">Fishingl</span>
+                    <span className="feature-tag">Ocean</span>
+                    </div>
+                    {/* <hr> */}
+                    <h5>Game Features</h5>
+                    <div>
+                        <span className="feature-tag">Additive symbol</span>
+                        <span className="feature-tag">Level Up</span>
+                        <span className="feature-tag">Buy Feature</span>
+                        <span className="feature-tag">Collect Energy</span>
+                        <span className="feature-tag">Additional Free Spins</span>
+                        <span className="feature-tag">FreeSpins Multiplier</span>
+                        <span className="feature-tag">RTP range</span>
+                        <span className="feature-tag">Multiplier</span>
+                        <span className="feature-tag">Scatter symbols</span>
+                        <span className="feature-tag">FreeSpins</span>
+                        <span className="feature-tag">Wild</span>
+                        <span className="feature-tag">BETO Slots</span>
+                    </div>
+                </div>
+                
+
+                    </div>
+                    </div>
+                   </div>
+
+
+                   <div className="container mb-3">
                    <div className="table-of-content">
         <div className="toc-header">
             REVIEW - TABLE OF CONTENTS

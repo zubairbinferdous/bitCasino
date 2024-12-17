@@ -190,5 +190,31 @@ h3 {
   height: 600px;
 }
 .bassImg img {
-  width: 70%;
+  width: 100%;
+}
+.bassImg2 img a {
+  width: 80%;
+}
+
+.bassImg2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.game-theme {
+  background: #198754;
+  color: #fff;
+  border-radius: 20px;
+  padding: 5px 10px;
+  margin-right: 5px;
+}
+
+.feature-tag {
+  background: #28a745;
+  color: #fff;
+  border-radius: 15px;
+  padding: 5px 10px;
+  margin: 5px;
+  display: inline-block;
 }
