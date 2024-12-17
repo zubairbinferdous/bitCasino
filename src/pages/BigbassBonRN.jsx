@@ -1,6 +1,6 @@
 import React from 'react';
-import cReview from '../assets/big-bass-splash-is-an-exciting-slot-that-will-entertain-fishing-slot-lovers.webp';
-import cReview1 from '../assets/bROne.webp';
+import cReview from '../assets/bigbassbonanza2.jpg';
+import cReview1 from '../assets/bbb3.webp';
 import cReview111 from '../assets/bRthree.webp';
 import cReview11 from '../assets/bRtwo.webp';
 import cReview3 from '../assets/casinoClick.jpg';
@@ -13,9 +13,9 @@ const BigbassBonRN = () => {
         <Header></Header>
         <div className="container-fluid bg-g">
                <div className="container text-area">
-                <h5 className='text-white'>Big Bass Splash Free Play</h5>
+                <h5 className='text-white'>Big Bass Bonanza Free Play</h5>
                 <h3 className="text-white mb-5">
-                Big Bass Splash Slot Demo</h3>  
+                Big Bass Bonanza Slot Demo</h3>  
                
                <div className="row">
                <div className="col-md-8">
@@ -42,7 +42,7 @@ const BigbassBonRN = () => {
 
 
                    <div className="container">
-                   <h3 className="section-title mt-5">Big Bass Splash Slot Review</h3>
+                   <h3 className="section-title mt-5">Big Bass Bonanza Slot Review</h3>
 
                    <div className="row">
                     <div className="col-md-3">
@@ -53,9 +53,8 @@ const BigbassBonRN = () => {
                               
          
                               <p>
-                              Big Bass Splash slot is another promising addition to the list of Big Bass slots by Pragmatic Play. The fisherman has now hopped into his monster truck, and he is ready to catch even more fish. This slot will remind you of Big Bass Bonanza, as it also has a 5x3 layout with 10 paylines. The Free Spins is the most important feature, and it allows you to win up to 5,000x of your stake.
-
-In this Big Bass Splash review, you will see what makes this slot special. You will clear all of your doubts if you read till the end.<br /><br />
+                              If you wish to win large during your gaming sessions, large Bass Bonanza is the ideal slot machine for you. Created by Pragmatic Play and Reel Kingdom, this incredible game with a fishing theme is a fantastic online slot machine with outstanding graphics, lucrative bonus features, and free spins.
+                              <br /><br /> This slot machine is very generous in terms of average returns with an RTP of 96.71% and supports full cross-device support.
                               </p>
                              
                               
@@ -81,23 +80,23 @@ In this Big Bass Splash review, you will see what makes this slot special. You w
                         <ul className="list-unstyled mb-0">
                             <li className="d-flex align-items-start mb-2">
                                 <span className="text-success me-2 fw-bold">+</span>
-                                <span>Max Win of 5,000x of your stake</span>
+                                <span>Engaging and Eye-Catching animations</span>
                             </li>
                             <li className="d-flex align-items-start mb-2">
                                 <span className="text-success me-2 fw-bold">+</span>
-                                <span>Up to 5 modifiers in the Free Spins</span>
+                                <span>Amazing Free Spins</span>
                             </li>
                             <li className="d-flex align-items-start mb-2">
                                 <span className="text-success me-2 fw-bold">+</span>
-                                <span>Improved chances of triggering Free Spins</span>
+                                <span>Perfect volatility for high-rollers</span>
                             </li>
                             <li className="d-flex align-items-start mb-2">
                                 <span className="text-success me-2 fw-bold">+</span>
-                                <span>Free Spins can be retriggered with a higher Multiplier</span>
+                                <span>Great RTP of 96.71%</span>
                             </li>
                             <li className="d-flex align-items-start">
                                 <span className="text-success me-2 fw-bold">+</span>
-                                <span>Option to buy Free Spins</span>
+                                <span>Extensive betting range</span>
                             </li>
                         </ul>
                     </div>
@@ -114,7 +113,11 @@ In this Big Bass Splash review, you will see what makes this slot special. You w
                         <ul className="list-unstyled mb-0">
                             <li className="d-flex align-items-start mb-2">
                                 <span className="text-success me-2 fw-bold">-</span>
-                                <span>High volatility</span>
+                                <span>Not many combinations in the base game</span>
+                            </li>
+                            <li className="d-flex align-items-start mb-2">
+                                <span className="text-success me-2 fw-bold">-</span>
+                                <span>Changeable RTP</span>
                             </li>
                            
                         </ul>
@@ -196,7 +199,7 @@ In this Big Bass Splash review, you will see what makes this slot special. You w
                     <h4>Game Themes</h4>
 
                     <div className="">
-                    <span className="feature-tag">Fishingl</span>
+                    <span className="feature-tag">Fishing</span>
                     <span className="feature-tag">Ocean</span>
                     </div>
                     {/* <hr> */}
@@ -231,17 +234,17 @@ In this Big Bass Splash review, you will see what makes this slot special. You w
         <div className="row">
         <div className="col-md-6">
             <ul className="toc-list">
-                <li className="toc-item"><span>🎰</span>2. Welcome to Big Bass Splash Online Slot</li>
+                <li className="toc-item"><span>🎰</span>2. Welcome to Big Bass Bonanza Online Slot</li>
                 <li className="toc-item"><span>🎰</span>3. Fishing Theme and Improved Graphics</li>
-                <li className="toc-item"><span>🎰</span>4. How to Play Big Bass Splash Slot</li>
+                <li className="toc-item"><span>🎰</span>4. How to Play Big Bass Bonanza Slot</li>
                 <li className="toc-item"><span>🎰</span>5. Incredible Bonus Features</li>
                 <li className="toc-item"><span>🎰</span>6. RTP, Variance, and Maximum Win</li>
             </ul>
         </div>
         <div className="col-md-6">
             <ul className="toc-list">
-                <li className="toc-item"><span>🎰</span>7. Is the Big Bass Splash Slot Worth it?</li>
-                <li className="toc-item"><span>🎰</span>8. Big Bass Splash Slot FAQs</li>
+                <li className="toc-item"><span>🎰</span>7. Is the Big Bass Bonanza Slot Worth it?</li>
+                <li className="toc-item"><span>🎰</span>8. Big Bass Bonanza Slot FAQs</li>
             </ul>
         </div>
     </div>
@@ -254,7 +257,7 @@ In this Big Bass Splash review, you will see what makes this slot special. You w
 
                    <div className="container">
                     <div className="row">
-                    <img src={cReview} alt="" />   
+                    <img src={cReview1} alt="" />   
                     </div>
                    </div>
 
@@ -278,15 +281,26 @@ OpenOption to buy Free Spins <br /> <br />
                    </div> */}
 
 <div className="container mt-5">
-        <h3 className="section-title">Welcome to Big Bass Splash Online Slot</h3>
+        <h3 className="section-title">Welcome to Big Bass Bonanza Online Slot</h3>
     <div className="section-container custom-bg">
-        <p>
-        The fishing adventure continues with the Big Bass Splash slot. It offers a high RTP and a decent Max Win with several exciting modifiers in the free spins. <br /> <br />
+    <p>Big Bass Bonanza is a fantastic online slot machine developed by Pragmatic Play in collaboration with Reel Kingdom. Pragmatic Play, a leading name in the iGaming industry, specializes in creating top-tier slot games. Known for their action-packed titles filled with dynamic animations and graphics, the developer has taken a unique route with Big Bass Bonanza. This game is inspired by a relaxing fishing theme, setting players in a calm and enjoyable mood.</p>  
 
-This slot has 5 reels, 3 rows, and 10 paylines. The base game doesn’t have much going on, and you will have to wait for the Free Spins bonus round. The Fish Money symbols can be won during the Free Spins, and there are up to 5 modifiers that can apply randomly in any round. <br /> <br />
+<br />
 
-This slot has Wild symbols, Multipliers, Nudges, Respins, and more. You can easily buy the Free Spins, which wasn’t possible in the original slot. We will explain everything in detail soon, so keep reading this review.<br /> <br />
-        </p>
+<p>The game offers plenty of opportunities for impressive payouts, giving players a chance to win up to 2,100x their bet amount in a single spin. Pragmatic Play, in partnership with the well-known Reel Kingdom, has crafted this fishing-inspired slot to appeal to fishing enthusiasts and slot fans alike. Every detail, from design to gameplay, aligns seamlessly with the theme.</p>  
+
+<br />
+
+<p>The graphics and visuals are beautifully designed, featuring a thematic background, reel animations, and an engaging soundtrack. The slot follows a standard structure with 5 reels and 3 rows, offering a total of 10 paylines. Players can win rewards by landing 3 or more matching symbols on any of these paylines.</p>  
+
+<br />
+
+<p>Big Bass Bonanza also features 2 key bonuses in the base game: scatter symbols and wild symbols, which increase the chances of hitting rewarding combinations. Additionally, players can trigger free spins or bonus spins, which come with lucrative multipliers. With multipliers going up to 10x, the potential for big wins makes the game even more exciting.</p>  
+
+<br />
+
+<p>For an in-depth look at this game, continue reading our detailed review below.</p>
+
 
         
     </div>
@@ -314,7 +328,7 @@ The Wild symbol is the cheerful bearded fisherman, who has been featured in seve
                 </div>
 
                 <div className="container mt-5">
-                <h3 className="section-title">How to Play Big Bass Splash Slot</h3>
+                <h3 className="section-title">How to Play Big Bass Bonanza Slot</h3>
                  <div className="section-container custom-bg">
                 <p>
                 Now we will help you understand how this slot can be played. Let’s get started.

@@ -1,8 +1,9 @@
 import React from 'react';
-import cReview from '../assets/big-bass-splash-is-an-exciting-slot-that-will-entertain-fishing-slot-lovers.webp';
-import cReview1 from '../assets/bROne.webp';
-import cReview111 from '../assets/bRthree.webp';
-import cReview11 from '../assets/bRtwo.webp';
+import cReview from '../assets/5ml2.jpeg';
+import cReview1 from '../assets/5lm1.webp';
+import cReview111 from '../assets/5ml3.webp';
+import cReview11 from '../assets/5ml4.webp';
+import cReview1111 from '../assets/5ml5.webp';
 import cReview3 from '../assets/casinoClick.jpg';
 import Footer from './Footer';
 import Header from './Header';
@@ -14,9 +15,9 @@ const LionR = () => {
         <Header></Header>
         <div className="container-fluid bg-g">
                <div className="container text-area">
-                <h5 className='text-white'>Big Bass Splash Free Play</h5>
+                <h5 className='text-white'>5 Lion Megaways Free Play</h5>
                 <h3 className="text-white mb-5">
-                Big Bass Splash Slot Demo</h3>  
+                5 Lion Megaways Slot Demo</h3>  
                
                <div className="row">
                <div className="col-md-8">
@@ -43,20 +44,20 @@ const LionR = () => {
 
 
                    <div className="container">
-                   <h3 className="section-title mt-5">Big Bass Splash Slot Review</h3>
+                   <h3 className="section-title mt-5">5 Lion Megaways Slot Review</h3>
 
                    <div className="row">
                     <div className="col-md-3">
-                    <img src={cReview} alt="" className='img-fluid'/>
+                    <img src={cReview1} alt="" className='img-fluid'/>
                     </div>
                     <div className="col-md-9">
                     <div className="section-container custom-bg bgggOne " >
                               
          
                               <p>
-                              Big Bass Splash slot is another promising addition to the list of Big Bass slots by Pragmatic Play. The fisherman has now hopped into his monster truck, and he is ready to catch even more fish. This slot will remind you of Big Bass Bonanza, as it also has a 5x3 layout with 10 paylines. The Free Spins is the most important feature, and it allows you to win up to 5,000x of your stake.
+                              5 Lion Megaways slot is another promising addition to the list of Big Bass slots by Pragmatic Play. The fisherman has now hopped into his monster truck, and he is ready to catch even more fish. This slot will remind you of Big Bass Bonanza, as it also has a 5x3 layout with 10 paylines. The Free Spins is the most important feature, and it allows you to win up to 5,000x of your stake.
 
-In this Big Bass Splash review, you will see what makes this slot special. You will clear all of your doubts if you read till the end.<br /><br />
+In this 5 Lion Megaways review, you will see what makes this slot special. You will clear all of your doubts if you read till the end.<br /><br />
                               </p>
                              
                               
@@ -232,17 +233,17 @@ In this Big Bass Splash review, you will see what makes this slot special. You w
         <div className="row">
         <div className="col-md-6">
             <ul className="toc-list">
-                <li className="toc-item"><span>🎰</span>2. Welcome to Big Bass Splash Online Slot</li>
+                <li className="toc-item"><span>🎰</span>2. Welcome to 5 Lion Megaways Online Slot</li>
                 <li className="toc-item"><span>🎰</span>3. Fishing Theme and Improved Graphics</li>
-                <li className="toc-item"><span>🎰</span>4. How to Play Big Bass Splash Slot</li>
+                <li className="toc-item"><span>🎰</span>4. How to Play 5 Lion Megaways Slot</li>
                 <li className="toc-item"><span>🎰</span>5. Incredible Bonus Features</li>
                 <li className="toc-item"><span>🎰</span>6. RTP, Variance, and Maximum Win</li>
             </ul>
         </div>
         <div className="col-md-6">
             <ul className="toc-list">
-                <li className="toc-item"><span>🎰</span>7. Is the Big Bass Splash Slot Worth it?</li>
-                <li className="toc-item"><span>🎰</span>8. Big Bass Splash Slot FAQs</li>
+                <li className="toc-item"><span>🎰</span>7. Is the 5 Lion Megaways Slot Worth it?</li>
+                <li className="toc-item"><span>🎰</span>8. 5 Lion Megaways Slot FAQs</li>
             </ul>
         </div>
     </div>
@@ -279,10 +280,10 @@ OpenOption to buy Free Spins <br /> <br />
                    </div> */}
 
 <div className="container mt-5">
-        <h3 className="section-title">Welcome to Big Bass Splash Online Slot</h3>
+        <h3 className="section-title">Welcome to 5 Lion Megaways Online Slot</h3>
     <div className="section-container custom-bg">
         <p>
-        The fishing adventure continues with the Big Bass Splash slot. It offers a high RTP and a decent Max Win with several exciting modifiers in the free spins. <br /> <br />
+        The fishing adventure continues with the 5 Lion Megaways slot. It offers a high RTP and a decent Max Win with several exciting modifiers in the free spins. <br /> <br />
 
 This slot has 5 reels, 3 rows, and 10 paylines. The base game doesn’t have much going on, and you will have to wait for the Free Spins bonus round. The Fish Money symbols can be won during the Free Spins, and there are up to 5 modifiers that can apply randomly in any round. <br /> <br />
 
@@ -308,14 +309,14 @@ The monster truck, fishing rod, dragonfly, bait box, and Fish Money symbols are 
 
 The Wild symbol is the cheerful bearded fisherman, who has been featured in several other slots. The Scatter symbol is a hooked bass fish trying to escape by jumping out of the water. <br /> <br />
         
-        <img src={cReview1} alt="" className='img-fluid'/>
+        <img src={cReview1111} alt="" className='img-fluid'/>
                 </p>
         
                 </div>
                 </div>
 
                 <div className="container mt-5">
-                <h3 className="section-title">How to Play Big Bass Splash Slot</h3>
+                <h3 className="section-title">How to Play 5 Lion Megaways Slot</h3>
                  <div className="section-container custom-bg">
                 <p>
                 Now we will help you understand how this slot can be played. Let’s get started.

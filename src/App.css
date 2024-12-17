@@ -5,6 +5,8 @@ body {
   margin: 0px;
   padding: 0px;
 }
+
+
 .text-area h5 {
   font-size: 18px;
   padding-top: 25px;
@@ -302,4 +304,9 @@ body {
 .nav-item img {
   width: 20px;
   height: 15px;
+}
+
+.hover-card {
+  border-radius: 10px;
+  margin: 0px 10px;
 }
