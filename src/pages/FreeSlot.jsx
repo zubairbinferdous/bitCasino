@@ -1,20 +1,20 @@
-import '../App.css'
-import c11 from '../assets/11.JPG'
-import c12 from '../assets/12Capture.JPG'
-import c13 from '../assets/13Capture.JPG'
-import c14 from '../assets/14Capture.JPG'
-import c15 from '../assets/15Capture.JPG'
-import c16 from '../assets/16Capture.JPG'
-import c17 from '../assets/17Capture.JPG'
-import c18 from '../assets/18Capture.JPG'
-import bggo from '../assets/bigone.webp'
-import four from '../assets/casinoFour.png'
-import one from '../assets/casinoOne.png'
-import three from '../assets/casinoThree.png'
-import two from '../assets/casinoTwo.png'
-import bgg from '../assets/freebBg.webp'
-import Footer from '../pages/Footer'
-import Header from '../pages/Header'
+import '../App.css';
+import c15 from "../assets/5lm1.webp";
+import c11 from "../assets/bbcBg2.webp";
+import bgg from "../assets/bggg.webp";
+import c16 from "../assets/bigb1.webp";
+import bggo from "../assets/bigone.webp";
+import four from "../assets/bod1.webp";
+import one from "../assets/casinoOne.png";
+import two from "../assets/casinoTwo.png";
+import c17 from "../assets/eyesBg.jpeg";
+import c12 from "../assets/fishbgTwo.webp";
+import three from "../assets/gb1.webp";
+import c18 from "../assets/goldbgOne.jpeg";
+import c13 from "../assets/highWayTwo.webp";
+import c14 from "../assets/zesuBgone.webp";
+import Footer from '../pages/Footer';
+import Header from '../pages/Header';
 
 const FreeSlot = () => {
     return (
