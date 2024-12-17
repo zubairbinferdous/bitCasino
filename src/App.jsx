@@ -11,8 +11,8 @@ import bgg from "./assets/bggg.webp";
 import bggo from "./assets/bigone.webp";
 import four from "./assets/casinoFour.png";
 import one from "./assets/casinoOne.png";
-import three from "./assets/casinoThree.png";
 import two from "./assets/casinoTwo.png";
+import three from "./assets/gb1.webp";
 import Footer from "./pages/Footer";
 import Header from "./pages/Header";
 
