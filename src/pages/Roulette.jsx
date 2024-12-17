@@ -19,6 +19,10 @@ const Roulette = () => {
                 <h5 className='text-white'>DECEMBER 2024</h5>
                 <h3 className="text-white mb-5">
                 Roulette - Learn How to Play and Beat the Game in 2024s</h3>  
+                <br />
+                 <div className="row">
+                    
+                 </div>
                 <br />    
 
                  <div className="row align-items-center bg-white round">

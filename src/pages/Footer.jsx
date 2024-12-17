@@ -12,10 +12,10 @@ const Footer = () => {
         <p>Free Slot Machines & Casino Reviews by Certified iGaming Experts in 2024.</p>
         <p><i className="bi bi-star-fill text-success"></i> Trustpilot</p>
         <div>
-          <a href="#" className="text-white me-2"><i className="bi bi-youtube"></i></a>
+          {/* <a href="#" className="text-white me-2"><i className="bi bi-youtube"></i></a>
           <a href="#" className="text-white me-2"><i className="bi bi-twitter"></i></a>
           <a href="#" className="text-white me-2"><i className="bi bi-linkedin"></i></a>
-          <a href="#" className="text-white"><i className="bi bi-geo-alt"></i></a>
+          <a href="#" className="text-white"><i className="bi bi-geo-alt"></i></a> */}
         </div>
       </div>
 
