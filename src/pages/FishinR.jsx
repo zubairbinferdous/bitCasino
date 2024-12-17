@@ -113,7 +113,6 @@ In this Fishin' Bear review, you will see what makes this slot special. You will
                         <ul className="list-unstyled mb-0">
                             <li className="d-flex align-items-start mb-2">
                                 <span className="text-success me-2 fw-bold">-</span>
-                                <span>Low Max Win</span>
                                 <span>Gameplay might be complex for newbies</span>
                             </li>
                            
@@ -216,34 +215,7 @@ In this Fishin' Bear review, you will see what makes this slot special. You will
                    </div>
 
 
-                   <div className="container mb-3">
-                   <div className="table-of-content">
-        <div className="toc-header">
-            REVIEW - TABLE OF CONTENTS
-        </div>
-        <div className="row">
-        <div className="col-md-6">
-            <ul className="toc-list">
-                <li className="toc-item"><span>🎰</span>2. Welcome to Fishin' Bear Online Slot</li>
-                <li className="toc-item"><span>🎰</span>3. Fishing Theme and Improved Graphics</li>
-                <li className="toc-item"><span>🎰</span>4. How to Play Fishin' Bear Slot</li>
-                <li className="toc-item"><span>🎰</span>5. Incredible Bonus Features</li>
-                <li className="toc-item"><span>🎰</span>6. RTP, Variance, and Maximum Win</li>
-            </ul>
-        </div>
-        <div className="col-md-6">
-            <ul className="toc-list">
-                <li className="toc-item"><span>🎰</span>7. Is the Fishin' Bear Slot Worth it?</li>
-                <li className="toc-item"><span>🎰</span>8. Fishin' Bear Slot FAQs</li>
-            </ul>
-        </div>
-    </div>
 
-
-
-
-                   </div>
-                   </div>
 
                    <div className="container">
                     <div className="row">
