@@ -32,6 +32,116 @@ function App() {
               Editors' Picks | Free Slots Demos
             </h3>
             <div className="row g-3 slider mt-3">
+
+
+
+            <div className="col-md-3 text-center ">
+                <div className="hover-card">
+                  <a href="/lion">
+                    <img src={c15} alt="Big Bass Bonanza" />
+                  </a>
+
+                  <div className="hover-text">
+                    {" "}
+                    <a href="/lion">5 Lions Megaways Free Play</a>{" "}
+                  </div>
+                </div>
+                <div className="hover-text bottom-area">
+                  5 Lions Megaways Free Play
+                </div>
+              </div>
+
+              <div className="col-md-3 text-center ">
+                <div className="hover-card">
+                  <a href="/bambo">
+                    <img src={c16} alt="Big Bass Bonanza" />
+                  </a>
+
+                  <div className="hover-text">
+                    <a href="/bambo">Big Bamboo Free Play</a>{" "}
+                  </div>
+                </div>
+                <div className="hover-text">Big Bamboo Free Play</div>
+              </div>
+
+
+              <div className="col-md-3 text-center">
+                <div className="hover-card">
+                  <a href="/bigBassReview">
+                    <img src={one} alt="Big Bass Splash" />
+                  </a>
+                  <div className="hover-text">
+                    <a href="/bigBassReview">Big Bass Splash</a>
+                  </div>
+                </div>
+                <div className="hover-text bottom-area">
+                  Big Bass Splash by Reel Kingdom
+                </div>
+              </div>
+
+
+
+              <div className="col-md-3 text-center " href="/GoldR">
+                <div className="hover-card">
+                  <a href="/GoldR">
+                    <img src={three} alt="Big Bass Bonanza" />
+                  </a>
+                  <div className="hover-text">
+                    <a href="/GoldR">Gold Blitz</a>
+                  </div>
+                </div>
+
+                <div className="hover-text">
+                  <a href="GoldR">Gold Blitz by Fortune Factory Studios</a>
+                </div>
+              </div>
+
+              <div className="col-md-3 text-center " href="">
+                <div className="hover-card">
+                  <a href="/bookRn">
+                    <img src={four} alt="Big Bass Bonanza" />
+                  </a>
+                  <div className="hover-text">
+                    <a href="/bookRn">Book of Dead</a>
+                  </div>
+                </div>
+
+                <div className="hover-text">Book of Dead by Play'n GO</div>
+              </div>
+
+
+              <div className="col-md-3 text-center " href="/bigBassBon">
+                <div className="hover-card">
+                  <a href="/bigBassBon">
+                    <img src={two} alt="Big Bass Bonanza" />
+                  </a>
+                  <div className="hover-text">
+                    <a href="/bigBassBon">Big Bass Bonanza</a>
+                  </div>
+                </div>
+                <div className="hover-text">
+                  Big Bass Bonanza by Reel Kingdo
+                </div>
+              </div>
+
+
+
+              <div className="col-md-3 text-center ">
+                <div className="hover-card">
+                  <a href="/eye">
+                    <img src={c17} alt="Big Bass Bonanza" />
+                  </a>
+
+                  <div className="hover-text">
+                    <a href="/eye">Eye of Horus Megaways Free Play</a>
+                  </div>
+                </div>
+                <div className="hover-text">
+                  Eye of Horus Megaways Free Play
+                </div>
+              </div>
+
+
               <div className="col-md-3 text-center ">
                 <div className="hover-card">
                   <a href="/bookBasChi">
@@ -83,106 +193,6 @@ function App() {
                   </div>
                 </div>
                 <div className="hover-text">Zeus Deluxe Free Play</div>
-              </div>
-
-              <div className="col-md-3 text-center">
-                <div className="hover-card">
-                  <a href="/bigBassReview">
-                    <img src={one} alt="Big Bass Splash" />
-                  </a>
-                  <div className="hover-text">
-                    <a href="/bigBassReview">Big Bass Splash</a>
-                  </div>
-                </div>
-                <div className="hover-text bottom-area">
-                  Big Bass Splash by Reel Kingdom
-                </div>
-              </div>
-
-              <div className="col-md-3 text-center " href="/bigBassBon">
-                <div className="hover-card">
-                  <a href="/bigBassBon">
-                    <img src={two} alt="Big Bass Bonanza" />
-                  </a>
-                  <div className="hover-text">
-                    <a href="/bigBassBon">Big Bass Bonanza</a>
-                  </div>
-                </div>
-                <div className="hover-text">
-                  Big Bass Bonanza by Reel Kingdo
-                </div>
-              </div>
-
-              <div className="col-md-3 text-center " href="/GoldR">
-                <div className="hover-card">
-                  <a href="/GoldR">
-                    <img src={three} alt="Big Bass Bonanza" />
-                  </a>
-                  <div className="hover-text">
-                    <a href="/GoldR">Gold Blitz</a>
-                  </div>
-                </div>
-
-                <div className="hover-text">
-                  <a href="GoldR">Gold Blitz by Fortune Factory Studios</a>
-                </div>
-              </div>
-
-              <div className="col-md-3 text-center " href="">
-                <div className="hover-card">
-                  <a href="/bookRn">
-                    <img src={four} alt="Big Bass Bonanza" />
-                  </a>
-                  <div className="hover-text">
-                    <a href="/bookRn">Book of Dead</a>
-                  </div>
-                </div>
-
-                <div className="hover-text">Book of Dead by Play'n GO</div>
-              </div>
-
-              <div className="col-md-3 text-center ">
-                <div className="hover-card">
-                  <a href="/lion">
-                    <img src={c15} alt="Big Bass Bonanza" />
-                  </a>
-
-                  <div className="hover-text">
-                    {" "}
-                    <a href="/lion">5 Lions Megaways Free Play</a>{" "}
-                  </div>
-                </div>
-                <div className="hover-text bottom-area">
-                  5 Lions Megaways Free Play
-                </div>
-              </div>
-
-              <div className="col-md-3 text-center ">
-                <div className="hover-card">
-                  <a href="/bambo">
-                    <img src={c16} alt="Big Bass Bonanza" />
-                  </a>
-
-                  <div className="hover-text">
-                    <a href="/bambo">Big Bamboo Free Play</a>{" "}
-                  </div>
-                </div>
-                <div className="hover-text">Big Bamboo Free Play</div>
-              </div>
-
-              <div className="col-md-3 text-center ">
-                <div className="hover-card">
-                  <a href="/eye">
-                    <img src={c17} alt="Big Bass Bonanza" />
-                  </a>
-
-                  <div className="hover-text">
-                    <a href="/eye">Eye of Horus Megaways Free Play</a>
-                  </div>
-                </div>
-                <div className="hover-text">
-                  Eye of Horus Megaways Free Play
-                </div>
               </div>
 
               <div className="col-md-3 text-center ">
