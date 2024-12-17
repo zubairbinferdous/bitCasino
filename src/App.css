@@ -6,7 +6,6 @@ body {
   padding: 0px;
 }
 
-
 .text-area h5 {
   font-size: 18px;
   padding-top: 25px;
@@ -338,4 +337,9 @@ body {
 .text-bold p {
   font-size: 18px;
   font-weight: 600;
+}
+
+.hover-card {
+  border-radius: 10px !important;
+  margin: 0px 10px;
 }

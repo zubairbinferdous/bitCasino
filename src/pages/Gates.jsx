@@ -1,8 +1,8 @@
 import React from 'react';
-import cReview from '../assets/big-bass-splash-is-an-exciting-slot-that-will-entertain-fishing-slot-lovers.webp';
-import cReview1 from '../assets/bROne.webp';
-import cReview111 from '../assets/bRthree.webp';
-import cReview11 from '../assets/bRtwo.webp';
+import cReview11 from '../assets/bgFour.webp';
+import cReview1 from '../assets/bgOne.webp';
+import cReview111 from '../assets/bgThree.webp';
+import cReview from '../assets/bgTwo.webp';
 import cReview3 from '../assets/casinoClick.jpg';
 import Footer from './Footer';
 import Header from './Header';
@@ -16,9 +16,9 @@ const Gates = () => {
         <Header></Header>
         <div className="container-fluid bg-g">
                <div className="container text-area">
-                <h5 className='text-white'>Big Bass Splash Free Play</h5>
+                <h5 className='text-white'>Gates of Olympus Free Play</h5>
                 <h3 className="text-white mb-5">
-                Big Bass Splash Slot Demo</h3>  
+                Gates of Olympus Slot Demo</h3>  
                
                <div className="row">
                <div className="col-md-8">
@@ -45,7 +45,7 @@ const Gates = () => {
 
 
                    <div className="container">
-                   <h3 className="section-title mt-5">Big Bass Splash Slot Review</h3>
+                   <h3 className="section-title mt-5">Gates of Olympus Slot Review</h3>
 
                    <div className="row">
                     <div className="col-md-3">
@@ -56,9 +56,9 @@ const Gates = () => {
                               
          
                               <p>
-                              Big Bass Splash slot is another promising addition to the list of Big Bass slots by Pragmatic Play. The fisherman has now hopped into his monster truck, and he is ready to catch even more fish. This slot will remind you of Big Bass Bonanza, as it also has a 5x3 layout with 10 paylines. The Free Spins is the most important feature, and it allows you to win up to 5,000x of your stake.
+                              Gates of Olympus slot is another promising addition to the list of Big Bass slots by Pragmatic Play. The fisherman has now hopped into his monster truck, and he is ready to catch even more fish. This slot will remind you of Big Bass Bonanza, as it also has a 5x3 layout with 10 paylines. The Free Spins is the most important feature, and it allows you to win up to 5,000x of your stake.
 
-In this Big Bass Splash review, you will see what makes this slot special. You will clear all of your doubts if you read till the end.<br /><br />
+In this Gates of Olympus review, you will see what makes this slot special. You will clear all of your doubts if you read till the end.<br /><br />
                               </p>
                              
                               
@@ -234,17 +234,17 @@ In this Big Bass Splash review, you will see what makes this slot special. You w
         <div className="row">
         <div className="col-md-6">
             <ul className="toc-list">
-                <li className="toc-item"><span>🎰</span>2. Welcome to Big Bass Splash Online Slot</li>
+                <li className="toc-item"><span>🎰</span>2. Welcome to Gates of Olympus Online Slot</li>
                 <li className="toc-item"><span>🎰</span>3. Fishing Theme and Improved Graphics</li>
-                <li className="toc-item"><span>🎰</span>4. How to Play Big Bass Splash Slot</li>
+                <li className="toc-item"><span>🎰</span>4. How to Play Gates of Olympus Slot</li>
                 <li className="toc-item"><span>🎰</span>5. Incredible Bonus Features</li>
                 <li className="toc-item"><span>🎰</span>6. RTP, Variance, and Maximum Win</li>
             </ul>
         </div>
         <div className="col-md-6">
             <ul className="toc-list">
-                <li className="toc-item"><span>🎰</span>7. Is the Big Bass Splash Slot Worth it?</li>
-                <li className="toc-item"><span>🎰</span>8. Big Bass Splash Slot FAQs</li>
+                <li className="toc-item"><span>🎰</span>7. Is the Gates of Olympus Slot Worth it?</li>
+                <li className="toc-item"><span>🎰</span>8. Gates of Olympus Slot FAQs</li>
             </ul>
         </div>
     </div>
@@ -257,7 +257,7 @@ In this Big Bass Splash review, you will see what makes this slot special. You w
 
                    <div className="container">
                     <div className="row">
-                    <img src={cReview} alt="" />   
+                    <img src={cReview1} alt="" />   
                     </div>
                    </div>
 
@@ -281,10 +281,10 @@ OpenOption to buy Free Spins <br /> <br />
                    </div> */}
 
 <div className="container mt-5">
-        <h3 className="section-title">Welcome to Big Bass Splash Online Slot</h3>
+        <h3 className="section-title">Welcome to Gates of Olympus Online Slot</h3>
     <div className="section-container custom-bg">
         <p>
-        The fishing adventure continues with the Big Bass Splash slot. It offers a high RTP and a decent Max Win with several exciting modifiers in the free spins. <br /> <br />
+        The fishing adventure continues with the Gates of Olympus slot. It offers a high RTP and a decent Max Win with several exciting modifiers in the free spins. <br /> <br />
 
 This slot has 5 reels, 3 rows, and 10 paylines. The base game doesn’t have much going on, and you will have to wait for the Free Spins bonus round. The Fish Money symbols can be won during the Free Spins, and there are up to 5 modifiers that can apply randomly in any round. <br /> <br />
 
@@ -317,7 +317,7 @@ The Wild symbol is the cheerful bearded fisherman, who has been featured in seve
                 </div>
 
                 <div className="container mt-5">
-                <h3 className="section-title">How to Play Big Bass Splash Slot</h3>
+                <h3 className="section-title">How to Play Gates of Olympus Slot</h3>
                  <div className="section-container custom-bg">
                 <p>
                 Now we will help you understand how this slot can be played. Let’s get started.
