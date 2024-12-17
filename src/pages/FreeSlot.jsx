@@ -32,35 +32,45 @@ const FreeSlot = () => {
 
 
         <div className="row g-3">
-            <div className="col-md-3 text-center ">
+
+            <div className="col-md-3 text-center" >
                 <div className="hover-card">
+                    <a href="/bigBassReview">
                     <img src={one} alt="Big Bass Splash"/>
-                    <div className="hover-text"><a href="/bigBassReview">free game</a></div>
+                    </a>
+                    <div className="hover-text"><a href="/bigBassReview">Big Bass Splash</a></div>
                 </div>
                 <div className="hover-text bottom-area">Big Bass Splash by Reel Kingdom</div>
             </div>
             
-            <div className="col-md-3 text-center ">
+            <div className="col-md-3 text-center "href="/bigBassBon">
                 <div className="hover-card">
+                    <a href="/bigBassBon">
                     <img src={two} alt="Big Bass Bonanza"/>
-                    <div className="hover-text"><a href="">free game</a></div>
+                    </a>
+                    <div className="hover-text"><a href="/bigBassBon">Big Bass Bonanza</a></div>
                 </div>
                 <div className="hover-text">Big Bass Bonanza by Reel Kingdo</div>
             </div>
+
            
-            <div className="col-md-3 text-center ">
+            <div className="col-md-3 text-center "href="/GoldR">
                 <div className="hover-card">
+                    <a href="/GoldR">
                 <img src={three} alt="Big Bass Bonanza"/>
-                <div className="hover-text"><a href="">free game</a></div>
+                    </a>
+                <div className="hover-text"><a href="/GoldR">Gold Blitz</a></div>
                 </div>
 
-                <div className="hover-text">Gold Blitz by Fortune Factory Studios</div>
+                <div className="hover-text"><a href="GoldR">Gold Blitz by Fortune Factory Studios</a></div>
             </div>
            
-            <div className="col-md-3 text-center ">
+            <div className="col-md-3 text-center " href="">
                 <div className="hover-card">
+                    <a href="/bookRn">
                 <img src={four} alt="Big Bass Bonanza"/>
-                <div className="hover-text"><a href="">free game</a></div>
+                    </a>
+                <div className="hover-text"><a href="/bookRn">Book of Dead</a></div>
                 </div>
 
                 <div className="hover-text">Book of Dead by Play'n GO</div>
@@ -71,77 +81,104 @@ const FreeSlot = () => {
         </div>
 
         <div className="row g-3">
+
+
             <div className="col-md-3 text-center ">
                 <div className="hover-card">
+                    <a href="/bookBasChi">
                 <img src={c11} alt="Big Bass Bonanza"/>
-                    <div className="hover-text">Big Bass Splash by Reel Kingdom</div>
+                    </a>
+                    <div className="hover-text"><a href="/bookBasChi">Big Bass Christmas</a></div>
                 </div>
-                <div className="hover-text bottom-area">Big Bass Splash by Reel Kingdom</div>
+                <div className="hover-text bottom-area">Big Bass Christmas</div>
             </div>
             
             <div className="col-md-3 text-center ">
                 <div className="hover-card">
+                    <a href="/fishin">
                 <img src={c12} alt="Big Bass Bonanza"/>
-                    <div className="hover-text">Big Bass Bonanza by Reel Kingdom</div>
+                    </a>
+                <div className="hover-text"> <a href="/fishin">Fishin' Bear</a> </div>
                 </div>
-                <div className="hover-text">Big Bass Bonanza by Reel Kingdo</div>
+                <div className="hover-text">Fishin' Bear</div>
             </div>
            
             <div className="col-md-3 text-center ">
                 <div className="hover-card">
+                    <a href="/highway">
                 <img src={c13} alt="Big Bass Bonanza"/>
+                    </a>
 
-                    <div className="hover-text">Gold Blitz by Fortune Factory Studios</div>
+                    <div className="hover-text"> <a href="/highway">Highway Rebels Free Play </a> </div>
                 </div>
-                <div className="hover-text">Gold Blitz by Fortune Factory Studios</div>
+                <div className="hover-text">Highway Rebels Free Play</div>
             </div>
            
             <div className="col-md-3 text-center ">
                 <div className="hover-card">
+                   
+                        <a href="/zesu">
                 <img src={c14} alt="Big Bass Bonanza"/>
+                        </a>
+                 
 
-                    <div className="hover-text">Book of Dead by Play'n GO</div>
+                    <div className="hover-text"> <a href="/zesu">Zeus Deluxe Free Play </a> </div>
                 </div>
-                <div className="hover-text">Book of Dead by Play'n GO</div>
+                <div className="hover-text">Zeus Deluxe Free Play</div>
             </div>
+
+
         </div>
 
         <div className="row g-3">
+
+
             <div className="col-md-3 text-center ">
                 <div className="hover-card">
+                   
+                    <a href="/lion">
                 <img src={c15} alt="Big Bass Bonanza"/>
-
-                    <div className="hover-text">Big Bass Splash by Reel Kingdom</div>
+                    </a>
+                
+                    <div className="hover-text"> <a href="/lion">5 Lions Megaways Free Play</a> </div>
                 </div>
-                <div className="hover-text bottom-area">Big Bass Splash by Reel Kingdom</div>
+                <div className="hover-text bottom-area">5 Lions Megaways Free Play</div>
             </div>
             
+
             <div className="col-md-3 text-center ">
                 <div className="hover-card">
+                    <a href="/bambo">
                 <img src={c16} alt="Big Bass Bonanza"/>
+                    </a>
 
-                    <div className="hover-text">Big Bass Bonanza by Reel Kingdom</div>
+                    <div className="hover-text"><a href="/bambo">Big Bamboo Free Play</a>  </div>
                 </div>
-                <div className="hover-text">Big Bass Bonanza by Reel Kingdo</div>
+                <div className="hover-text">Big Bamboo Free Play</div>
             </div>
            
             <div className="col-md-3 text-center ">
                 <div className="hover-card">
+                    <a href="/eye">
                 <img src={c17} alt="Big Bass Bonanza"/>
+                    </a>
 
-                    <div className="hover-text">Gold Blitz by Fortune Factory Studios</div>
+                    <div className="hover-text"><a href="/eye">Eye of Horus Megaways Free Play</a></div>
                 </div>
-                <div className="hover-text">Gold Blitz by Fortune Factory Studios</div>
+                <div className="hover-text">Eye of Horus Megaways Free Play</div>
             </div>
            
             <div className="col-md-3 text-center ">
                 <div className="hover-card">
+                    <a href="/gates">
                 <img src={c18} alt="Big Bass Bonanza"/>
-
-                    <div className="hover-text">Book of Dead by Play'n GO</div>
+                    </a>
+                    <div className="hover-text"><a href="/gates">Gates of Olympus Free Play</a></div>
                 </div>
-                <div className="hover-text">Book of Dead by Play'n GO</div>
+                <div className="hover-text">Gates of Olympus Free Play</div>
             </div>
+
+
         </div>
        </div>
        </div>

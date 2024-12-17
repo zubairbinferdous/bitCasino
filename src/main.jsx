@@ -5,13 +5,24 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import App from './App.jsx'
 import './index.css'
 import Baccarat from './pages/Baccarat.jsx'
+import Bambo from './pages/Bambo.jsx'
+import BigbassBonRN from './pages/BigbassBonRN.jsx'
+import BigBassChi from './pages/BigBassChi.jsx'
 import BigBassR from './pages/BigBassR.jsx'
 import Blackjack from './pages/Blackjack.jsx'
+import BookRN from './pages/BookRN.jsx'
 import Casino from './pages/Casino.jsx'
 import Deposit from './pages/Deposit.jsx'
+import Eye from './pages/Eye.jsx'
+import FishinR from './pages/FishinR.jsx'
 import FreeSlot from './pages/FreeSlot.jsx'
 import FreeSpin from './pages/FreeSpin.jsx'
+import Gates from './pages/Gates.jsx'
+import GoldRN from './pages/GoldRN.jsx'
+import HighR from './pages/HighR.jsx'
+import LionR from './pages/LionR.jsx'
 import Welcome from './pages/Welcome.jsx'
+import ZesuR from './pages/ZesuR.jsx'
 
 
 const router = createBrowserRouter([
@@ -56,10 +67,77 @@ const router = createBrowserRouter([
     path:'/Blackjack',
     element:<Baccarat></Baccarat>
   },
+
+
+
+
+
   {
     path:'/bigBassReview',
     element:<BigBassR></BigBassR>
   },
+
+
+  {
+    path:'/bigBassBon',
+    element:<BigbassBonRN></BigbassBonRN>
+  },
+  {
+    path:'/GoldR',
+    element:<GoldRN></GoldRN>
+  },
+  {
+    path:'/bookRn',
+    element:<BookRN></BookRN>
+  },
+
+
+
+
+  {
+    path:'/bookBasChi',
+    element:<BigBassChi></BigBassChi>
+  },
+
+
+
+  {
+    path:'/fishin',
+    element:<FishinR></FishinR>
+  },
+ 
+  {
+    path:'/highway',
+    element:<HighR></HighR>
+  },
+ 
+  {
+    path:'/zesu',
+    element:<ZesuR></ZesuR>
+  },
+
+
+
+  
+  {
+    path:'/lion',
+    element:<LionR></LionR>
+  },
+  {
+    path:'/bambo',
+    element:<Bambo></Bambo>
+  },
+  {
+    path:'/eye',
+    element:<Eye></Eye>
+  },
+  {
+    path:'/gates',
+    element:<Gates></Gates>
+  },
+
+
+ 
  
 ]);
 

@@ -218,3 +218,88 @@ h3 {
   margin: 5px;
   display: inline-block;
 }
+
+/* Slider container styling */
+.slider-container {
+  position: relative;
+  width: 80%;
+  margin: 50px auto;
+}
+
+/* Anchor or button in the top-right */
+.top-right-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 10;
+  text-decoration: none;
+  background-color: #007bff;
+  color: white;
+  padding: 5px 15px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+}
+
+/* Hover effect for the button */
+.top-right-btn:hover {
+  background-color: #0056b3;
+}
+
+/* Slick arrows custom position */
+.slick-prev {
+  left: -40px;
+  z-index: 5;
+}
+
+.slick-next {
+  right: -40px;
+  z-index: 5;
+}
+
+/* Optional styling for slides */
+.slick-slide img {
+  border-radius: 10px;
+  width: 100%;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1030;
+}
+
+.nav-item.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0;
+}
+
+.dropdown-menu {
+  transition: all 0.3s ease-in-out;
+  background-color: #ccc6b1;
+  border: none;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.dropdown-item:hover {
+  background-color: #ccc6b1;
+  color: #021a00;
+}
+
+.navbar-nav .nav-link.active {
+  font-weight: bold;
+  color: #ffffff !important;
+}
+
+body {
+  padding-top: 56px;
+}
+
+.navbar-brand img {
+  max-height: 40px; /* Adjust the height to fit the navbar */
+}
+.nav-item img {
+  width: 20px;
+  height: 15px;
+}

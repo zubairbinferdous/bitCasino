@@ -1,4 +1,8 @@
 import React from 'react';
+import BONUSES from '../assets/icon-craps.svg';
+import CASINOS from '../assets/icon-poker-chip.svg';
+import SLOTS from '../assets/icon-slots.svg';
+import GAMES from '../assets/money-bag.svg';
 
 const Header = () => {
     return (
@@ -12,14 +16,14 @@ const Header = () => {
       <div className="collapse navbar-collapse" id="navbarNav">
         <ul className="navbar-nav me-auto">
           <li className="nav-item">
-            <a className="nav-link" href="/free">FREE SLOTS</a>
+             <a className="nav-link" href="/free"><img src={SLOTS} alt="" />  FREE SLOTS</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="/casino">CASINOS</a>
+            <a className="nav-link" href="/casino"> <img src={CASINOS} alt="" /> CASINOS</a>
           </li>
           <li className="nav-item dropdown">
             <a className="nav-link dropdown-toggle" href="#" id="bonusesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              BONUSES
+            <img src={BONUSES} alt="" />  BONUSES
             </a>
             <ul className="dropdown-menu" aria-labelledby="bonusesDropdown">
               <li><a className="dropdown-item" href="/welcome">Welcome Bonus </a></li>
@@ -29,24 +33,17 @@ const Header = () => {
           </li>
           <li className="nav-item dropdown">
             <a className="nav-link dropdown-toggle" href="#" id="casinoGamesDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              CASINO GAMES
+            <img src={GAMES} alt="" />  CASINO GAMES
             </a>
             <ul className="dropdown-menu" aria-labelledby="casinoGamesDropdown">
+              <li><a className="dropdown-item" href="/free">Free Slots Guide</a></li>
               <li><a className="dropdown-item" href="/Blackjack">Blackjack Guide</a></li>
               <li><a className="dropdown-item" href="/Baccarat">Baccarat Guid</a></li>
             </ul>
           </li>
           
         </ul>
-        {/* <div className="d-flex align-items-center">
-          <button className="btn btn-dark me-2" id="themeToggle"><i className="bi bi-moon"></i></button>
-          <button className="btn btn-dark me-2"><i className="bi bi-search"></i></button>
-          <select className="form-select bg-dark text-white" style="width: auto;">
-            <option value="us" selected>🇺🇸</option>
-            <option value="uk">🇬🇧</option>
-            <option value="fr">🇫🇷</option>
-          </select>
-        </div> */}
+      
       </div>
     </div>
   </nav>
